@@ -2,6 +2,11 @@ NorthStar Tech: Enterprise Network Design
 
 A multi-site enterprise network designed and simulated in Cisco Packet Tracer. It connects a headquarters and two branch offices through a simulated ISP.
 
+
+ ![NorthStar Tech network topology](20261118112516.png)
+
+
+
 Highlights:
 
   -Redundant HQ core with HSRP gateways and a LACP EtherChannel
@@ -15,9 +20,3 @@ Highlights:
   -Security: ACL policies, port security, SSH-only access, guest Wi-Fi isolation
   
   -Network operations server for NTP, Syslog and TFTP backup
-
-
-
-
-
-  ![NorthStar Tech network topology](20261118112516.png)
