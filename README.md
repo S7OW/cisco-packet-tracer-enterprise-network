@@ -15,3 +15,9 @@ Highlights:
   -Security: ACL policies, port security, SSH-only access, guest Wi-Fi isolation
   
   -Network operations server for NTP, Syslog and TFTP backup
+
+
+
+
+
+  ![NorthStar Tech network topology](20261118112516.png)
